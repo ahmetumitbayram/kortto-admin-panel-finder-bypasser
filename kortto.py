@@ -5,7 +5,7 @@ while True:
     print("""
  #########################################################
 #                                                        #
-#        Kortto Admin Panel Finder / Bypasser v2.0       #
+#        Kortto Admin Panel Finder & Bypasser v2.0       #
 #                                                        # 
 #              Coded by Ahmet Ümit BAYRAM                #
 #                                                        #
