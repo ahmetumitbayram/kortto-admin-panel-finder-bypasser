@@ -1,0 +1,8 @@
+/admin
+/adm
+/cms
+/panel
+/yonetim
+/yonetici
+/trex
+/yonet
