@@ -35,7 +35,7 @@ while True:
         try:
             req = requests.get(i)
         except:
-            print(i, " bağlantı yok! ")
+            print(i, " no connection! ")
             continue
         if req.status_code == 200:
             try:
