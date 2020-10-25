@@ -12,7 +12,7 @@ while True:
  #########################################################
     """)
 
-    site = input("siteyi gir:")
+    site = input("website: ")
     url = "https://api.viewdns.info/reverseip/?host="
     api_key = "&apikey=884a53c016d5088c9f50935e464bcd16cabe19ca&output=json"
     son_url = url + site + api_key
